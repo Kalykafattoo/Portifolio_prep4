@@ -1,0 +1,37 @@
+body{
+    background-color:#fff0f3 ;
+}
+h1{
+    color: #ff006e;
+    font-size: 120px;
+}
+h2{
+    color:#4361ee ;
+    
+}
+h3{
+    color:#ff006e
+}
+p{
+    color:#4361ee;  
+}
+ footer p{
+    color: #ffafcc;
+ }
+ .box-a{
+    background-color:#cdb4db;
+    padding:30px;
+    border: 3px solid #ff006e;
+    margin-bottom: 20px;
+    width: 250 px;
+    height: 150 px;
+ }
+ .box-b{
+    background-color:#f4acb7;
+    padding:30px;
+    border: 3px solid #ff006e;
+    margin-bottom: 20px;
+    width: 250 px;
+    height: 150 px;
+ }
+ 
